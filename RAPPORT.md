@@ -1,5 +1,5 @@
 # Rapport
 
 ## Binome :
-* Nom prénom
-* Nom prénom
+* Voicu David
+* Mace Erwan
